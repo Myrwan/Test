@@ -28,3 +28,5 @@ Fichiers « courants » à la racine de `artifacts/` :
 | `salle-bain-14b-tablier-microciment-blanc.png` | Tablier microciment / résine blanc |
 | `salle-bain-14c-tablier-bois-canneles.png` | Tablier bois cannelé / rainuré |
 | `salle-bain-14d-tablier-carrelage-hexagonal.png` | Tablier même carrelage hexagonal |
+| `salle-bain-15b-microciment-sol-wc.png` | Option B + parquet sol + WC |
+| `salle-bain-15d-carrelage-sol-wc.png` | Option D + parquet sol + WC |
