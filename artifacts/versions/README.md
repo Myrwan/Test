@@ -22,3 +22,4 @@ Fichiers « courants » à la racine de `artifacts/` :
 - `salle-bain-parquet-chene-final.png` — parquet seul
 - `salle-bain-parquet-toilette.png` — version actuelle (alias de la v10)
 | `salle-bain-11-wc01-niche-profonde.png` | Premier WC + niche parquet plus profonde |
+| `salle-bain-12-fidele-origine-wc-niche.png` | Reprise fidèle depuis photo d'origine + parquet + WC + niche |
