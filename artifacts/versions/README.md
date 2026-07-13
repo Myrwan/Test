@@ -24,3 +24,7 @@ Fichiers « courants » à la racine de `artifacts/` :
 | `salle-bain-11-wc01-niche-profonde.png` | Premier WC + niche parquet plus profonde |
 | `salle-bain-12-fidele-origine-wc-niche.png` | Reprise fidèle depuis photo d'origine + parquet + WC + niche |
 | `salle-bain-13-fidele-plafond-carrelage.png` | Passe fidélité renforcée plafond + carrelage |
+| `salle-bain-14a-tablier-gres-beton.png` | Tablier grands formats grès effet béton |
+| `salle-bain-14b-tablier-microciment-blanc.png` | Tablier microciment / résine blanc |
+| `salle-bain-14c-tablier-bois-canneles.png` | Tablier bois cannelé / rainuré |
+| `salle-bain-14d-tablier-carrelage-hexagonal.png` | Tablier même carrelage hexagonal |
