@@ -32,3 +32,5 @@ Fichiers « courants » à la racine de `artifacts/` :
 | `salle-bain-15d-carrelage-sol-wc.png` | Option D + parquet sol + WC |
 | `salle-bain-16b-microciment-sol-wc-niche.png` | Option B + sol + WC + niche |
 | `salle-bain-16d-carrelage-sol-wc-niche.png` | Option D + sol + WC + niche |
+| `salle-bain-17b-microciment-niche-modele-parquet.png` | B + niche type modele parquet |
+| `salle-bain-17d-carrelage-niche-modele-parquet.png` | D + niche type modele parquet |
