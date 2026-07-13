@@ -21,3 +21,4 @@ Fichiers « courants » à la racine de `artifacts/` :
 - `baignoire-origine.jpg` — photo source
 - `salle-bain-parquet-chene-final.png` — parquet seul
 - `salle-bain-parquet-toilette.png` — version actuelle (alias de la v10)
+| `salle-bain-11-wc01-niche-profonde.png` | Premier WC + niche parquet plus profonde |
