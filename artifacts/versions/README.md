@@ -30,3 +30,5 @@ Fichiers « courants » à la racine de `artifacts/` :
 | `salle-bain-14d-tablier-carrelage-hexagonal.png` | Tablier même carrelage hexagonal |
 | `salle-bain-15b-microciment-sol-wc.png` | Option B + parquet sol + WC |
 | `salle-bain-15d-carrelage-sol-wc.png` | Option D + parquet sol + WC |
+| `salle-bain-16b-microciment-sol-wc-niche.png` | Option B + sol + WC + niche |
+| `salle-bain-16d-carrelage-sol-wc-niche.png` | Option D + sol + WC + niche |
