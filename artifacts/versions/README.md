@@ -15,9 +15,11 @@ Chaque fichier est une étape distincte (plus d’écrasement du même nom).
 | `salle-bain-07-wc-decalage-modere.png` | Décalage modéré (moitié) |
 | `salle-bain-08-wc-repris-base-sans-cuvette.png` | WC repris depuis base sans cuvette |
 | `salle-bain-09-niche-parquet-v1.png` | Niche parquet (1re version) |
-| `salle-bain-10-niche-parquet-etagere-actuel.png` | Niche parquet avec étagère (**actuel**) |
+| `salle-bain-10-niche-parquet-etagere-actuel.png` | Niche parquet avec étagère |
+| `salle-bain-11-enduit-tablier.png` | Enduit tablier horizontal + vertical (**actuel**) |
 
 Fichiers « courants » à la racine de `artifacts/` :
 - `baignoire-origine.jpg` — photo source
 - `salle-bain-parquet-chene-final.png` — parquet seul
-- `salle-bain-parquet-toilette.png` — version actuelle (alias de la v10)
+- `salle-bain-parquet-toilette.png` — parquet + WC + niche (v10)
+- `salle-bain-enduit-tablier.png` — version actuelle (alias de la v11)
